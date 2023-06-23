@@ -1,9 +1,4 @@
 #include "header.h"
-// input dr ko martin: task untuk baca berat dan nunjukin di oled bedain 
-// jgn disatuin sama ngirim realtime database biar kalo misalkan g dpt wifi
-// dia masi bisa show berat di oled
-// sama input satu lg kalo bs wifi nya kalo emg putus bisa nyari ssid sama
-// password lain lewat rtdb idk how?
 
 // fungsi setup untuk koneksi ke wifi
 void setup_wifi()
